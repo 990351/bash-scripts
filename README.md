@@ -5,11 +5,13 @@ system administration and DevOps environments.
 
 ## Scripts Included
 - System Information
-- Backup Automation
-- Disk Usage Alert
-- User Management
-- Service Monitoring
-- Network Check
+- Backup Script
+- Disk Usage Alert Script
+- User Creation Script
+- Service Status Checker
+- Log File Cleaner Script
+- Internet Connectivity Checker
+- CPU Monitoring Script
 
 ## Purpose
 - Linux practice
